@@ -51,7 +51,7 @@ Make | Criteria | Rating & Weighting Range | Weighted Value Range | Rating | Wei
 2019 Hyundai Santa Fe|	Resale Value	|1-10|	1-100|	9	|8|	72	|8.06
 2019 Toyota RAV4|	Safety Features|	1-10	|1-100	|8	|10	|80	|8.26
 2019 Toyota RAV4|	Maintenance Cost	|1-10	|1-100|	7	|5	|35	|8.26
-2019 Toyota RAV4|	Price Point	1-10	|1-100|	8|	7|	56	|8.26
+2019 Toyota RAV4|	Price Point	|1-10	|1-100|	8|	7|	56	|8.26
 2019 Toyota RAV4|	Insurance	|1-10	|1-100|	7	|10	|70	|8.26
 2019 Toyota RAV4|	Fuel Economy	|1-10|	1-100|	10	|10	|100|	8.26
 2019 Toyota RAV4|	Resale Value	|1-10	|1-100	|9	|8	|72	|8.26
