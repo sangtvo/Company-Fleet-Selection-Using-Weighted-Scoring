@@ -8,7 +8,7 @@ Table of Contents
 3. [Tech Stack](#tech-stack)
 4. [Weighted Scoring Model](#weighted-scoring-model)
 5. [Dashboard](#dashboard)
-6. [Data Analysis & Visualization](#data-analysis--visualization)
+6. [Data Analysis](#data-analysis)
 7. [Solution](#solution)
 8. [Key Takeaways](#key-takeaways)
 
@@ -17,7 +17,7 @@ Table of Contents
 <a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#tech-stack"/>
 <a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#weighted-scoring-model"/>
 <a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#dashboard"/>
-<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#data-analysis--visualization"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#data-analysis"/>
 <a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#solution"/>
 <a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#key-takeaways"/>
 
@@ -70,7 +70,7 @@ Dashboard
 ---
 ![Dashboard](https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring/blob/main/images/Dashboard.PNG?raw=true)
 
-Data Analysis & Visualization
+Data Analysis
 ---
 ![VBar](https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring/blob/main/images/Combined_Bar.png?raw=true)
 
