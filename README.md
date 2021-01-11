@@ -1,24 +1,25 @@
 # Project 03: Company Fleet Selection Using Weighted Scoring
 > This project explores an analysis using the weighted scoring method on selecting one of the four vehicles as part of the company fleet: 2019 Ford Escape, 2019 Honda CR-V, 2019 Hyundai Santa Fe, and 2019 Toyota RAV4. The requirements for the vehicles are based on safety features, maintenance cost, price point, insurance, fuel economy, and resale value. In order to present this analysis to management on car selection, a data visualization tool, Tableau, is used to present my decision.
 
-
-testing part 3 and 3
-adfahdufa
-adgnjajkdgf
-adgfadg
-
-
 Table of Contents
 ---
 1. [General Information](#general-information)
 2. [Summary](#summary)
 3. [Tech Stack](#tech-stack)
-4. [Code Examples](#code-examples)
+4. [Weighted Scoring Model](#weighted-scoring-model)
+5. [Dashboard](#dashboard)
+6. [Data Analysis & Visualization](#data-analysis--visualization)
+7. [Solution](#solution)
+8. [Key Takeaways](#key-takeaways)
 
-<a name="https://github.com/sangtvo/US-Census-Bureau-Web-Scraper#general-information"/>
-<a name="https://github.com/sangtvo/US-Census-Bureau-Web-Scraper#summary"/>
-<a name="https://github.com/sangtvo/US-Census-Bureau-Web-Scraper#tech-stack"/>
-<a name="https://github.com/sangtvo/US-Census-Bureau-Web-Scraper#code-examples"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#general-information"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#summary"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#tech-stack"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#weighted-scoring-model"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#dashboard"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#data-analysis--visualization"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#solution"/>
+<a name="https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring#key-takeaways"/>
 
 General Information
 ---
