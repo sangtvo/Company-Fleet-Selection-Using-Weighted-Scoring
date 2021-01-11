@@ -73,5 +73,19 @@ Data Analysis & Visualization
 ---
 ![VBar](https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring/blob/main/images/Combined_Bar.png?raw=true)
 
-For the company’s criteria which are safety features, maintenance cost, and price point, one can notice that maintenance cost and price point for the 2019 Honda CR-V in Figure 6 are higher than at least 2 other vehicles. While the price point is ranked second compared to the 2019 Ford Escape, we can dig deeper into pricing and will notice that we can get a better deal at our local dealership.
+For the company’s criteria which are safety features, maintenance cost, and price point, one can notice that maintenance cost and price point for the 2019 Honda CR-V are higher than at least 2 other vehicles. While the price point is ranked second compared to the 2019 Ford Escape, we can dig deeper into pricing and will notice that we can get a better deal at our local dealership. After collecting MSRP data (not shown) for new vehicles and finding local dealerships in the South Bay, the better value and discount for our money is the 2019 Honda CR-V which is $2,706.00 (MSRP $25,570 – fair purchase price $22,864) compared to $1,850 (MSRP $25,200 - $23,350) for the 2019 Ford Escape. Additionally, the 2019 Honda CR-V has the highest weighted value of 8.55 (not shown) for the first three features and therefore wins in this group.
+
+As for my criteria which are insurance, fuel economy, and resale value, the 2019 Honda CR-V also ranks first in this criteria group. The 2019 Honda CR-V has 2 consistent features that have a value of 90 and are higher than at least 2 other vehicles. Since insurance has the highest score of 90, I collected insurance cost (not shown) for 5 years for all four vehicles and prorated the cost yearly. The yearly insurance cost for the 2019 Honda CR-V is $923 which is lower than all the other vehicles and we can safely assume why the 2019 Honda CR-V has the highest weighted value for insurance cost. I have also looked into the loss of value in terms of resale value because its weighted value is 72 across the board. The loss of value for the 2019 Honda CR-V for 5 years is prorated to $2,890 ($14,454 / 5 years) per year, which is the lowest out of all the other vehicles. This shows that even though all cars have the same weighted value, the company will get a better value for holding it for at least 5 years because we are not losing as much value compared to others and if anything, have better resale value. Overall, the 2019 Honda CR-V is ranked first in this group with a weighted value 9 on a scale from 1 to 10.
+
+Solution
+---
+When combining all six features on a dashboard, we will see that 2019 Honda CR-V is the best choice for the company's fleet with a total weighted value of 8.8 on a scale from 1 to 10. This outcome makes sense because the 2019 Honda CR-V ranked higher in the company’s criteria and my criteria as well. Personally, I can agree with the results as I also was an owner of a 2002 Honda CR-V with over 200,000+ mileage and still running after 18 years. Since the company is interested in purchasing a 2019 Honda CR-V, it will have better technology and older car issues may already have been addressed, and therefore, it will last long and have better value for the company.  
+
+Key Takeaways
+---
+* 2019 Honda CR-V has the highest weighted value than all the other vehicles with the company's criteria (8.55) and my criteria (9) with an overall combined weighted rating of 8.80.
+* Insurance, fuel economy, and safety features are the most important requirements when choosing a vehicle (weight of 10). 
+* 2019 Hyundai Santa Fe scored the lowest and least likely to be picked. 
+* The lowest rated criteria is maintenance cost due to the company's weighted requirement of 5, meaning that the company is indifferent with maintenance costs and willing to pay more or less for necessary car repairs. 
+* The best car for fuel efficiency is the 2019 Toyota RAV4 which received a perfect score of 100. 
 
