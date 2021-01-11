@@ -23,11 +23,11 @@ Table of Contents
 
 General Information
 ---
-The project is part of a graduate course (_Advance Data Visualization_) at Western Governor's University. The data will not be provided, but rather an explanation of insights. 
+The project is part of a graduate course (_Advance Data Visualization_) at Western Governor's University. The raw data will not be provided, but rather an explanation of insights. 
 
 Summary
 ---
-A web scraper is created by using Python and scraped 227 links from the [Population and Housing Unit Estimates web page](https://www.census.gov/programs-surveys/popest.html). In order to get only unique links, a for loop is created which resulted in 119 unique links.
+The company's fleet requirements are safety features, maintenance cost, price point, insurance, fuel economy, and resale value when choosing a new vehicle. A weighted scoring model is performed to conclude that the best vehicle to choose based on the criteria is the 2019 Honda CR-V with a weighted score of 8.80.
 
 Tech Stack
 ---
