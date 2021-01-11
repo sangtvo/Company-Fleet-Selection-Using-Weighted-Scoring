@@ -64,7 +64,7 @@ Make | Criteria | Rating & Weighting Range | Weighted Value Range | Rating | Wei
 2019 Toyota RAV4|	Fuel Economy	|1-10|	1-100|	10	|10	|100|	8.26
 2019 Toyota RAV4|	Resale Value	|1-10	|1-100	|9	|8	|72	|8.26
 
-The ratings are collected from [JD Power](https://www.jdpower.com/) and the weight is based on the company's requirements and I. The company's criteria are safety features, maintenance cost, and price point while my criteria are insurance, fuel economy, and resale value. In the above table above, it is a weighted scoring table with the combined six criterias. The weighted value is Rating x Weighting. The Weighted Rating is the sum of the weighted value over sum of weight per vehicle. 
+The ratings are collected from [JD Power](https://www.jdpower.com/) and the weight is based on the company's requirements and I. The company's criteria are safety features, maintenance cost, and price point while my criteria are insurance, fuel economy, and resale value. The weighted value is Rating x Weighting. The Weighted Rating is the sum of the weighted value over sum of weight per vehicle. 
 
 Dashboard
 ---
