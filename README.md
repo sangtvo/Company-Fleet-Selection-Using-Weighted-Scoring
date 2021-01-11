@@ -65,6 +65,13 @@ Make | Criteria | Rating & Weighting Range | Weighted Value Range | Rating | Wei
 
 The ratings are collected from [JD Power](https://www.jdpower.com/) and the weight is based on the company's requirements and I. The company's criteria are safety features, maintenance cost, and price point while my criteria are insurance, fuel economy, and resale value. In the above table above, it is a weighted scoring table with the combined six criterias. The weighted value is Rating x Weighting. The Weighted Rating is the sum of the weighted value over sum of weight per vehicle. 
 
-![](https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring/blob/main/images/Combined_Bar.png?raw=true)
+Dashboard
+---
+![Dashboard](https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring/blob/main/images/Dashboard.PNG?raw=true)
+
+Data Analysis & Visualization
+---
+![VBar](https://github.com/sangtvo/Company-Fleet-Selection-Using-Weighted-Scoring/blob/main/images/Combined_Bar.png?raw=true)
 
 For the company’s criteria which are safety features, maintenance cost, and price point, one can notice that maintenance cost and price point for the 2019 Honda CR-V in Figure 6 are higher than at least 2 other vehicles. While the price point is ranked second compared to the 2019 Ford Escape, we can dig deeper into pricing and will notice that we can get a better deal at our local dealership.
+
