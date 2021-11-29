@@ -23,7 +23,7 @@ Table of Contents
 
 General Information
 ---
-The project is part of a graduate course (_Advance Data Visualization_) at Western Governor's University. The raw data will not be provided, but rather an explanation of insights. 
+The raw data will not be provided, but rather an explanation of insights. 
 
 Summary
 ---
