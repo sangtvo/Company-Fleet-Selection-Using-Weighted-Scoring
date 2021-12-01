@@ -1,4 +1,4 @@
-# Project 03: Company Fleet Selection Using Weighted Scoring
+# Company Fleet Selection Using Weighted Scoring
 > This project explores an analysis using the weighted scoring method on selecting one of the four vehicles as part of the company fleet: 2019 Ford Escape, 2019 Honda CR-V, 2019 Hyundai Santa Fe, and 2019 Toyota RAV4. The requirements for the vehicles are based on safety features, maintenance cost, price point, insurance, fuel economy, and resale value. In order to present this analysis to management on car selection, a data visualization tool, Tableau, is used to present my decision.
 
 Table of Contents
